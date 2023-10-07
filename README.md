@@ -2,14 +2,9 @@
 
 **I can resolve this challenge**.
 
-**Mobile first image**
+![Mobile first image](./complete/qrMobile.png)
 
-(./complete/qrMobile.png)
-
-**Desktop**
-
-(./complete/qrDesktop.png)
-
+![Desktop](./complete/qrDesktop.png)
 
 ## First impressions! ☀️ 
 
