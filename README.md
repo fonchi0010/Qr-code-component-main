@@ -2,6 +2,10 @@
 
 **I can resolve this challenge**.
 
+![Mobile First Image] (./solutionImages/QrMobile.png)
+    
+![Desktop Image] (./solutionImages/QrDesktop.png)
+
 ## First impressions! ☀️ 
 
 **Interesting and fun challenge.**
