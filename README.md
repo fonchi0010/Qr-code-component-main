@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary card
+# Frontend Mentor - QR Code Component Main
 
 **I can resolve this challenge**.
 
